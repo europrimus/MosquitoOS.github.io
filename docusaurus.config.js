@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'MosquitoOS',
   projectName: 'mosquito-docs', 
-
+  trailingSlash: false,
   presets: [
     [
       'classic',
