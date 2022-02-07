@@ -9,7 +9,7 @@ const config = {
   title: 'Mosquito velomobile open source',
   tagline: 'an opensource and DIY velomobile',
   url: 'https://www.mosquito-velomobiles.org',
-  baseUrl: '/',
+  baseUrl: '/mosquito-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
