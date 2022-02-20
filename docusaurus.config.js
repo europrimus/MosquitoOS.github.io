@@ -3,19 +3,21 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const importPartial = require('remark-import-partial');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mosquito velomobile open source',
   tagline: 'an opensource and DIY velomobile',
   url: 'https://www.mosquito-velomobiles.org',
-  baseUrl: '/mosquito-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'MosquitoOS',
-  projectName: 'mosquito-docs', 
+  projectName: 'MosquitoOS.github.io', 
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   presets: [
     [
       'classic',
@@ -24,6 +26,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+	  remarkPlugins: [importPartial, require('mdx-mermaid'), require('plugin-image-zoom')],
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
@@ -43,9 +46,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Mosquito OS',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Mosquito OS logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -53,11 +56,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/MosquitoOS/',
             label: 'GitHub',
             position: 'right',
           },
@@ -79,16 +82,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/KPn7SQePVv',
               },
             ],
           },
@@ -101,7 +96,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/MosquitoOS',
               },
             ],
           },
