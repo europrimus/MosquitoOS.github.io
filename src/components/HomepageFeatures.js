@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Auto-constructible',
+    Svg: require('../../static/img/tools.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      	Le Mosquito OS se veut un véhicule quoique complexe et performant, accéssible à l'auto-construction. Ce grâce à des matériaux sourçable facilement et à des outils accessible.
+	    </>
+    ),
+  },
+  {
+    title: 'Opensource',
+    Svg: require('../../static/img/osh-logo.svg').default,
+    description: (
+      <>
+	    Dès l'origine du projet, la conception du Mosquito a été partagé au plus grand nombre. La version OpenSource continue dans cette lancée. Tous les contenus et documents du projet sont sous licences "libres".
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Résilient',
+    Svg: require('../../static/img/plant.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+	    Son poids plume, ses matières premières et sa capacité à être répararé, recylcé, amélioré en font le véhicule idéal pour tendre vers plus d'autonomie et de résilience.
       </>
     ),
   },

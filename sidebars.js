@@ -7,7 +7,7 @@ const sidebars = {
 				          link: {
 						            title: "Cadre avant",
 						            type: 'generated-index',
-						            description: "Let's learn about the most important Docusaurus concepts!",
+						            description: "Il s'agit de fabriquer l'avant du trike Mosquito",
 						            image: '/img/docusaurus.png'
 						          },
 				          items: [{
@@ -33,7 +33,7 @@ const sidebars = {
 				          link: {
 						            title: "Cadre dos",
 						            type: 'generated-index',
-						            description: "Let's learn about the most important Docusaurus concepts!",
+						            description: "La fabrication du reste du cadre entre les 4 barres et l'avant du trike.",
 						            image: '/img/docusaurus.png'
 						          },
 				          items: [{
@@ -54,7 +54,7 @@ const sidebars = {
 				          link: {
 						            title: "Direction 4 barres",
 						            type: 'generated-index',
-						            description: "Let's learn about the most important Docusaurus concepts!",
+						            description: "Fabrication de la direction '4 barres' permettant la rotation du trike.",
 						            image: '/img/docusaurus.png'
 						          },
 				          items: [{
@@ -75,12 +75,12 @@ const sidebars = {
 				              link: {
 						                  title: "Guidon",
 						                  type: 'generated-index',
-						                  description: "Let's learn about the most important Docusaurus concepts!",
+						                  description: "Comment piloter un vélomobile sans guidon ?",
 						                  image: '/img/docusaurus.png'
 						                },
 				              items: [{
 						                    type: "doc",
-						                    label: "recyclage du jeu de direction ? (",
+						                    label: "recyclage du jeu de direction",
 						                    id: "jeu-direction-vtt"
 						                  },
 						                  {
@@ -96,7 +96,7 @@ const sidebars = {
 				              link: {
 						                  title: "Direction",
 						                  type: 'generated-index',
-						                  description: "Let's learn about the most important Docusaurus concepts!",
+						                  description: "Fabrcation du jeu de direction permettant de piloter les 4 barres depuis le guidon.",
 						                  image: '/img/docusaurus.png'
 						                },
 				              items: [{
@@ -122,7 +122,7 @@ const sidebars = {
 				              link: {
 						                  title: "Mécanique vélo",
 						                  type: 'generated-index',
-						                  description: "Let's learn about the most important Docusaurus concepts!",
+						                  description: "Où l'on parle de ce qui est autour de la mécanique vélo.",
 						                  image: '/img/docusaurus.png'
 						                },
 				              items: [{
@@ -143,7 +143,7 @@ const sidebars = {
 				              link: {
 						                  title: "Carénage",
 						                  type: 'generated-index',
-						                  description: "Let's learn about the most important Docusaurus concepts!",
+						                  description: "Comment fabriquer le carénage du vélomobile.",
 						                  image: '/img/docusaurus.png'
 						                },
 				              items: [{
@@ -174,7 +174,7 @@ const sidebars = {
 				              link: {
 						                  title: "Résine",
 						                  type: 'generated-index',
-						                  description: "Let's learn about the most important Docusaurus concepts!",
+						                  description: "Fiches complémentaire sur les techniques autour de la résine et la stratification.",
 						                  image: '/img/docusaurus.png'
 						                },
 				              items: [{

@@ -8,7 +8,7 @@ const importPartial = require('remark-import-partial');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mosquito velomobile open source',
-  tagline: 'an opensource and DIY velomobile',
+  tagline: 'Un vélomobile opensource et auto-constructible',
   url: 'https://www.mosquito-velomobiles.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -50,6 +50,7 @@ const config = {
         logo: {
           alt: 'Mosquito OS logo',
           src: 'img/logo.svg',
+	  srcDark: 'img/logo-dark.svg'
         },
         items: [
           {
@@ -73,13 +74,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Guide',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Communauté',
             items: [
               {
                 label: 'Discord',
@@ -101,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `CC-BY-SA ${new Date().getFullYear()} Mosquito OS. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
