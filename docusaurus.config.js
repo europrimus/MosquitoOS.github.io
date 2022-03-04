@@ -60,6 +60,7 @@ const config = {
             label: 'Guide',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+	  {to: '/communaute', label: 'Communauté', position: 'left'},
           {
             href: 'https://github.com/MosquitoOS/',
             label: 'GitHub',
