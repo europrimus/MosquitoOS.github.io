@@ -27,13 +27,15 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
 	  remarkPlugins: [importPartial, require('mdx-mermaid'), require('plugin-image-zoom')],
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/MosquitoOS/MosquitoOS.github.io/tree/master/docs/',
+          editLocalizedFiles: false,
+	  editCurrentVersion: false,
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/MosquitoOS/MosquitoOS.github.io/tree/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
