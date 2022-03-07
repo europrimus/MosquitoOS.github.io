@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/tools.svg').default,
     description: (
       <>
-      	Le Mosquito OS se veut un véhicule quoique complexe et performant, accéssible à l'auto-const
+      	Le Mosquito OS se veut un véhicule quoique complexe et performant, accessible à l'auto-construction.
 	    </>
     ),
   },
