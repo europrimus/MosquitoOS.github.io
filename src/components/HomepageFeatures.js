@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/tools.svg').default,
     description: (
       <>
-      	Le Mosquito OS se veut un véhicule quoique complexe et performant, accéssible à l'auto-construction. Ce grâce à des matériaux sourçable facilement et à des outils accessible.
+      	Le Mosquito OS se veut un véhicule quoique complexe et performant, accéssible à l'auto-const
 	    </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/osh-logo.svg').default,
     description: (
       <>
-	    Dès l'origine du projet, la conception du Mosquito a été partagé au plus grand nombre. La version OpenSource continue dans cette lancée. Tous les contenus et documents du projet sont sous licences "libres".
+	    Dès l'origine du projet, la conception du Mosquito a été partagé au plus grand nombre. Tous les contenus et documents du projet sont sous licences "libres".
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/plant.svg').default,
     description: (
       <>
-	    Son poids plume, ses matières premières et sa capacité à être répararé, recylcé, amélioré en font le véhicule idéal pour tendre vers plus d'autonomie et de résilience.
+	    Ses matières premières et sa capacité à être répararé, recylcé, amélioré en font le véhicule idéal pour tendre vers plus d'autonomie et de résilience.
       </>
     ),
   },
