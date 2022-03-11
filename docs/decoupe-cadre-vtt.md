@@ -18,7 +18,7 @@ difficulté: facile
 * Aucun
 
 **Description courte**
-Nous récupérons le triangle arrière d'un VTT 26 pouces (= roues de diamètre intérieur de 559 mm). Veillez à prendre un triangle arrière dont les bases restent "ouvertes" pendant 18 cm environ, notamment si votre roue avant a un moyeu avec un frein à rouleaux ("roller-brake"): par exemple ci-dessous, le roller-brake frotterait sur les bases donc ce n'est pas bon [photo 8/1/2022 16h50 à ajouter]
+Nous récupérons le triangle arrière d'un VTT 26 pouces (= roues de diamètre intérieur de 559 mm). Veillez à prendre un triangle arrière dont les bases restent "ouvertes" pendant 18 cm environ, notamment si votre roue avant a un moyeu avec un frein à rouleaux ("roller-brake"): par exemple ci-dessous, le roller-brake frotterait sur les bases donc ce n'est pas bon: [![choix_format_triangle_arriere_pour_espace_frein_rouleaux_Roller_Brake](https://user-images.githubusercontent.com/96416553/157899903-962386fe-00e3-4911-8f96-fefa9e824654.jpg)]
 
 
 Ce triangle servira de fourche avant sur la vélomobile Mosquito. Les roues elles-mêmes ne seront pas forcément conservées: pour le Mosquito, il est recommandé d'utiliser des roues de 406 mm (= roues de 20 pouces) pour garder un centre de gravité bas. Il faut également s'assurer d'avoir une jante qui puisse accueillir correctement un pneu d'environ 30mm de large (https://www.matosvelo.fr/index.php?post/2015/02/24/dimensions-et-correspondances-des-pneus-et-jantes-velo) donc de préférence des jantes de largeur interne 19C ou 17C, par exemple la Andra 30 ou la X-Plorer de chez Ryde; préférez une jante perçée pour 36 rayons et solide (choisir une jante à double paroi, avec oeillets si possible) car la roue avant est soumise à des efforts importants dans les virages.
