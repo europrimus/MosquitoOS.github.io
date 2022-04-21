@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmosquito_docs=self.webpackChunkmosquito_docs||[]).push([[6768],{595:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/mosquito","name":"mosquito","count":4,"permalink":"/blog/tags/mosquito"}')}}]);

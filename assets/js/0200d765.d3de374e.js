@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmosquito_docs=self.webpackChunkmosquito_docs||[]).push([[1331],{5720:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/r-d","name":"R&D","count":2,"permalink":"/blog/tags/r-d"}')}}]);

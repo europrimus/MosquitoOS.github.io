@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmosquito_docs=self.webpackChunkmosquito_docs||[]).push([[4121],{8070:function(s){s.exports=JSON.parse('[{"name":"mosquito","permalink":"/docs/tags/mosquito","count":21},{"name":"tache","permalink":"/docs/tags/tache","count":21}]')}}]);
