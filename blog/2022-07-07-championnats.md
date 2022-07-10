@@ -8,7 +8,7 @@ tags: [Evenements, R&D, Mosquito]
 Le Mosquito OpenSource s’expose!
 ================================
 
-Thibaut membre de l’équipe de développement du Mosquito OpenSource, a commencé à fabriquer son propre trike suite au stage de novembre de l’année dernière. C’est ce dernier que vous aurez la chance de découvrir sur un stand lors des [**Championnats du Monde de vélos couchés**](https://www.afvelocouche.fr/championnats-du-monde-2022/) **le 15 juillet** de 14h à 19h30. Thibaut et Joseph seront présents pour répondre à toutes vos questions sur le projet Mosquito.👋 (vous pouvez toujours soutenir leur venue et les suites du projet [ici](https://www.afvelocouche.fr/championnats-du-monde-2022/)).
+Thibaut membre de l’équipe de développement du Mosquito OpenSource, a commencé à fabriquer son propre trike suite au stage de novembre de l’année dernière. C’est ce dernier que vous aurez la chance de découvrir sur un stand lors des [**Championnats du Monde de vélos couchés**](https://www.afvelocouche.fr/championnats-du-monde-2022/) **le samedi 16 juillet** de 14h à 19h30. Thibaut et Joseph seront présents pour répondre à toutes vos questions sur le projet Mosquito.👋 (vous pouvez toujours soutenir leur venue et les suites du projet [ici](https://www.afvelocouche.fr/championnats-du-monde-2022/)).
 
 ![](https://dim.mcusercontent.com/cs/5c34adf9c85700841f7de761f/images/c7130821-0e2b-a5f0-b047-76d32bdd1a67.jpg?w=564&dpr=2&rect=0%2C285%2C4592%2C2494)
 
