@@ -58,7 +58,7 @@ Ce site web est basé sur **Docusaurus** qui permet [la gestion des traductions]
 ### Financièrement
 
 
-Développer un objet physique OpenSource a un coût (achat d'outils, matières premières, temps passé à fabriquer/modéliser, etc.). Si vous souhaitez soutenir le projet financièrement, nous avons créer [une page sur OpenCollective](https://opencollective.com/mosquitoos) à cette fin. Toutes [les dépenses y sont transparentes](https://opencollective.com/mosquitoos#category-BUDGET) (entrées et sorties). 
+Développer un objet physique OpenSource a un coût (achat d'outils, matières premières, temps passé à fabriquer/modéliser, etc.). Si vous souhaitez soutenir le projet financièrement, nous avons créer [une page sur OpenCollective](https://opencollective.com/moskitos) à cette fin. Toutes [les dépenses y sont transparentes](https://opencollective.com/moskitos#category-BUDGET) (entrées et sorties). 
 
 Cette cagnotte sera utilisée pour les besoins suivants:
 
